@@ -48,8 +48,21 @@ ___________________________
 
 
 ___________________________________________
+___________________________________________
 
-## (2) 
+## (2) Statistical-Modeling
+
+
+#### (2a) (Multivariate) Linear Regression
+
+
+#### (2b) (Multivariate) Logistic Regression
+
+
+#### (2c) Generalized Linear Modeling
+
+
+#### (2d) Quantile Regression
 
 
 
